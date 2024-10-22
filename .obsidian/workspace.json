@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "create a link.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Welcome"
+              "title": "create a link"
             }
           }
         ]
@@ -175,8 +175,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "15baf66f9655aa31",
+  "active": "ff20f164ed0e1a96",
   "lastOpenFiles": [
-    "Welcome.md"
+    "Welcome.md",
+    "create a link.md"
   ]
 }
