@@ -6,6 +6,7 @@
       {
         "id": "bae6236bc615b349",
         "type": "tabs",
+        "dimension": 50.96153846153846,
         "children": [
           {
             "id": "ff20f164ed0e1a96",
@@ -26,6 +27,7 @@
       {
         "id": "c82b442bca727268",
         "type": "tabs",
+        "dimension": 49.03846153846153,
         "children": [
           {
             "id": "15baf66f9655aa31",
@@ -175,9 +177,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ff20f164ed0e1a96",
+  "active": "15baf66f9655aa31",
   "lastOpenFiles": [
-    "Welcome.md",
-    "create a link.md"
+    "create a link.md",
+    "Welcome.md"
   ]
 }
